@@ -71,6 +71,12 @@ Based on the questions you provided, here are some possible answers that the exp
   ![Residual scatterplot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20scatterplot%20output.png)
 
   **Regression results**
+  Model 1
+  The model explains about 49% of the variance in price.
+  The p_value  are zero therfore  less than the of 0.05 therefore the model is statistically significant
+  Model 2
+  The model explains about 58.1% of the variance in price.
+  The p_value  are zero therfore  less than the of 0.05 therefore the model is statistically significant
 
   ## Conclusion
   The creation of these models will enable the Real Estate Agency to provide precise valuations of residential properties to their customers. Moreover, by comprehending the aspects that significantly affect the selling price, the agency can suggest homeowners on how to boost their home's worth via enhancements or modifications. Overall, this venture can furnish meaningful understandings about the determinants that sway the sale price of a house in King County, benefiting both the Real Estate Agency and their clientele.
