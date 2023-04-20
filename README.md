@@ -66,7 +66,7 @@ Based on the questions you provided, here are some possible answers that the exp
     Certain factors are more strongly correlated with the sale price of a house than others. For example, the size of the house (measured in square feet) may be strongly correlated with the sale price, with larger houses selling for higher prices. Other factors that may be strongly correlated with price include the location of the house (e.g., proximity to schools or public transportation), the number of bedrooms and bathrooms, and the condition of the house.
 
   ## Modeling and Predictions
-  ![OLS regression results.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/OLS%20regression%20results.png)
+  ![OLS regression results](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Ols%20regression.png)
   ![Residual QQ plot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20QQ%20plot%20output.png)
   ![Residual scatterplot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20scatterplot%20output.png)
 
