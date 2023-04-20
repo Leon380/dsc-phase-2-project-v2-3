@@ -67,8 +67,19 @@ Based on the questions you provided, here are some possible answers that the exp
 
   ## Modeling and Predictions
   ![ols](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Ols%20regression.png)
+  
+  Overall the model performed marginally better. We were off by about 149171 rather than 173560 in a given prediction, and explained 62.9% rather than 49.2% of the
+  variance in price.
+  
   ![Residual QQ plot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20QQ%20plot%20output.png)
+  
+  Since almost all of the data points fall along a straight line in this QQ-plot, we can consider the normality assumption satisfied.
+  
   ![Residual scatterplot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20scatterplot%20output.png)
+  
+  The scatterplot appears to show a roughly symmetrical and consistent spread of the residuals around the lowess regression line, suggesting that the homoscedasticity
+  assumption is met for the Model.
+  
 
   **Regression results**
   
@@ -81,6 +92,10 @@ Based on the questions you provided, here are some possible answers that the exp
   
   The model explains about 58.1% of the variance in price.
   The p_value  are zero therfore  less than the of 0.05 therefore the model is statistically significant
+  
+  Final- model:
+  
+  The model explains about 63% of the variance in price which is an improvement from the previous model.
 
   ## Conclusion
   The creation of these models will enable the Real Estate Agency to provide precise valuations of residential properties to their customers. Moreover, by comprehending the aspects that significantly affect the selling price, the agency can suggest homeowners on how to boost their home's worth via enhancements or modifications. Overall, this venture can furnish meaningful understandings about the determinants that sway the sale price of a house in King County, benefiting both the Real Estate Agency and their clientele.
