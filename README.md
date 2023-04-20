@@ -71,10 +71,14 @@ Based on the questions you provided, here are some possible answers that the exp
   ![Residual scatterplot output.png](https://github.com/Leon380/dsc-phase-2-project-v2-3/blob/main/Residual%20scatterplot%20output.png)
 
   **Regression results**
+  
   Model 1
+  
   The model explains about 49% of the variance in price.
   The p_value  are zero therfore  less than the of 0.05 therefore the model is statistically significant
+  
   Model 2
+  
   The model explains about 58.1% of the variance in price.
   The p_value  are zero therfore  less than the of 0.05 therefore the model is statistically significant
 
